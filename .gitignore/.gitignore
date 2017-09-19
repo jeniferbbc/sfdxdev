@@ -1,1 +1,7 @@
-.sfdx
+*.pyc
+build.properties.*
+*.DS_Store*
+# SFDX scratch org info
+*.sfdx/
+*MDGSPO/
+*mdapioutput/
